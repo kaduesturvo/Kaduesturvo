@@ -1,6 +1,6 @@
 ## Hi there 👋
 BEM VINDO AO MEU PERFIL
-
+MEU NOME É CARLOS EDUARDO
 <!--
 **kaduesturvo/Kaduesturvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
